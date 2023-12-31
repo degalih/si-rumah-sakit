@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -187,9 +187,9 @@ Project Link: [https://github.com/degalih/si-rumah-sakit](https://github.com/deg
 [stars-url]: https://github.com/degalih/si-rumah-sakit/stargazers
 [issues-shield]: https://img.shields.io/github/issues/degalih/si-rumah-sakit.svg?style=for-the-badge
 [issues-url]: https://github.com/degalih/si-rumah-sakit/issues
-[license-shield]: https://img.shields.io/github/license/degalih/si-rumah-sakit.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/degalih/si-rumah-sakit.svg??label=license&style=for-the-badge
 [license-url]: https://github.com/degalih/si-rumah-sakit/blob/master/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/galihmr/
 [product-screenshot]: https://res.cloudinary.com/stunt-shield-cloudinary/image/upload/v1704008526/Porto%20Web%20Assets/01_jdidky.png
 [PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
