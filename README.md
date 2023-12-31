@@ -25,7 +25,7 @@ Hospital Inpatient Information System (HRIS)</h3>
     <a href="https://github.com/degalih/si-rumah-sakit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/degalih/si-rumah-sakit">View Demo</a>
+<!--     <a href="https://github.com/degalih/si-rumah-sakit">View Demo</a> -->
     ·
     <a href="https://github.com/degalih/si-rumah-sakit/issues">Report Bug</a>
     ·
